@@ -1,0 +1,20 @@
+.Quote h1 {
+    font-size: 80px;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.Quote p {
+    font-size: 35px;
+}
+.Quote button
+{
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+}
+.Quote button:hover
+{
+    background-color: green;
+}
